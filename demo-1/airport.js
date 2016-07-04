@@ -28,8 +28,6 @@
 			airportHistoryWrap:'airportHistoryCity',/* 历史城市主容器*/
 			clearOrgCity:false, //是否需要清除到达城市信息
 			isSpecialPriceList:false //是否特价专区页调用参数
-			//新加入一条的记录
-			//第三次提交
 	};
 
 	//机场列表主方法
