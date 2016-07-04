@@ -32,7 +32,7 @@
 
 	//机场列表主方法
 
-	
+	//测试ssh
 	function AirportList(configs){
 		this._initAir(configs);
 	}
