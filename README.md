@@ -1,2 +1,2 @@
 # git
-study
+Hello GitHub!
